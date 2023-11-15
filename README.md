@@ -1,5 +1,5 @@
 # shopalot
 
-The new Revolutionary of Shopping Arduino Kits and Bards i South Africa.
+The new Revolutionary of Shopping Arduino Kits and Bards in South Africa.
 
 #Number1
